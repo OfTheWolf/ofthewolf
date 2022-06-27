@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Ugur,
+
+I am an Android and iOS Developer with 8+ years of experience.
+
+Check my portfolio [here](https://ofthewolf.github.io/):
 
 <!--
 **OfTheWolf/ofthewolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ugur.
 
-I am an Android and iOS Developer with 8+ years of experience.
+I have been developing Android & iOS apps since 2014.
 
 See my portfolio [here](https://ofthewolf.github.io/):
 
